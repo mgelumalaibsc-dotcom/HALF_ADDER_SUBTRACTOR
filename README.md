@@ -69,3 +69,5 @@ SUBRATION
 <img width="1893" height="987" alt="CLOK DIAGRAM" src="https://github.com/user-attachments/assets/eebf497e-090a-475a-884b-b7b7456d1d11" />
 
 **Result:**
+
+Hence the half adder and half subtractor is verifed using quatrus
